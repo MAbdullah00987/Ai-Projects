@@ -1,0 +1,17 @@
+{
+  "name": "heynesh-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "vite": "^8.1.5",
+    "website-scraper": "^6.0.0"
+  }
+}
